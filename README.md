@@ -35,14 +35,14 @@ Employee attrition is a significant challenge for organizations, impacting talen
 
 
 ## Some Key Visualizations
-### Marginal Effects wtih Confidence Intervals
-![Attrition by Income](images/MarginalEffect.png)
+### ROC Curve for KNN Model
+![ROC Curve for KNN Mode](images/KNN.png)
 
-### ROC Curve for Decision Tree
-![Attrition by Business Travel](images/ROCCurveDecisionTree.png)
+###  ROC AUC for SVM Radial Kernel
+![ ROC AUC for SVM Radial Kernel](images/svm Radial.png)
 
-### Heatmap of Correlation
-![ROC Curve](images/Heatmap.png)
+### Density Plot for SVM Kernels
+![Density Plot for SVM Kernel](images/svm.png)
 
 ---
 
