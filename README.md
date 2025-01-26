@@ -38,7 +38,7 @@ Employee attrition is a significant challenge for organizations, impacting talen
 Below is a snippet of the code used to train the SVM models with linear, radial, and polynomial kernels:
 
 ```R
-### Step 5: Feature & Model Selection using SVM method ---
+### Feature & Model Selection using SVM method ---
 
 # Define train control for cross-validation
 tr_control = trainControl(
