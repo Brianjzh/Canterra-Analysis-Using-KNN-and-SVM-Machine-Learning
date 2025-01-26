@@ -33,6 +33,19 @@ Employee attrition is a significant challenge for organizations, impacting talen
 
 ---
 
+
+## Some Key Visualizations
+### Marginal Effects wtih Confidence Intervals
+![Attrition by Income](images/MarginalEffect.png)
+
+### ROC Curve for Decision Tree
+![Attrition by Business Travel](images/ROCCurveDecisionTree.png)
+
+### Heatmap of Correlation
+![ROC Curve](images/Heatmap.png)
+
+---
+
 ## **Code Snippet: SVM Model Training**
 
 Below is a snippet of the code used to train the SVM models with linear, radial, and polynomial kernels:
