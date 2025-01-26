@@ -39,7 +39,7 @@ Employee attrition is a significant challenge for organizations, impacting talen
 ![ROC Curve for KNN Mode](images/KNN.png)
 
 ###  ROC AUC for SVM Radial Kernel
-![ ROC AUC for SVM Radial Kernel](images/svm Radial.png)
+![ ROC AUC for SVM Radial Kernel](images/SVMRadial.png)
 
 ### Density Plot for SVM Kernels
 ![Density Plot for SVM Kernel](images/svm.png)
